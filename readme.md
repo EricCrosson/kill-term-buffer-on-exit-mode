@@ -19,6 +19,13 @@ Or manually, after downloading into your `load-path`
 (require 'kill-term-buffer-on-exit-mode)
 ```
 
+## Example
+
+Here is a demonstration showing the killing of a `term` process with
+and without `kill-term-buffer-on-exit-mode`.
+
+![Note the manual vs automatic destruction of the `term` buffer](https://raw.githubusercontent.com/EricCrosson/kill-term-buffer-on-exit-mode/master/img/demo.gif)
+
 ## Acknowledgements
 
 - [Original StackOverflow post](https://stackoverflow.com/a/23691628/10596482)
