@@ -26,7 +26,7 @@ and without `kill-term-buffer-on-exit-mode`.
 
 ![Note the manual vs automatic destruction of the `term` buffer](https://raw.githubusercontent.com/EricCrosson/kill-term-buffer-on-exit-mode/master/img/demo.gif)
 
-## Acknowledgements
+## Acknowledgments
 
 - [Original StackOverflow post](https://stackoverflow.com/a/23691628/10596482)
 
